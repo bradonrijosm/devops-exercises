@@ -11,6 +11,8 @@
 :pencil: &nbsp;Você pode adicionar mais exercícios enviando pull requests :) Leia sobre as diretrizes de contribuição [aqui](CONTRIBUTING.md)
 
 > **Nota pessoal:** Estou usando este repositório para estudar para entrevistas de DevOps. Meu foco atual é em Kubernetes, AWS e Git. Pretendo revisar pelo menos 10 perguntas por dia.
+>
+> **Progresso:** Kubernetes ✅ | AWS (em andamento) | Git ✅ | Linux (próximo)
 
 ****
 
@@ -36,6 +38,4 @@
   </tr>
 
   <tr>
-      <td align="center"><a href="topics/cloud/README.md"><img src="images/cloud.png" width="75px;" height="75px;" alt="Cloud"/><br /><b>Nuvem</b></a></td>
-      <td align="center"><a href="topics/aws/README.md"><img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
-      <td align="center"><a href
+      <td align="center"><a href="topics/cloud/README.md"><img src="images/cloud.png" width="75px;" height="75px;" alt="Cloud"/><br /><b>Nuvem</b></a></
