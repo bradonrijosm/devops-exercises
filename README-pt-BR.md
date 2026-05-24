@@ -12,7 +12,7 @@
 
 > **Nota pessoal:** Estou usando este repositório para estudar para entrevistas de DevOps. Meu foco atual é em Kubernetes, AWS e Git. Pretendo revisar pelo menos 10 perguntas por dia.
 >
-> **Progresso:** Kubernetes ✅ | AWS (em andamento) | Git ✅ | Linux (próximo)
+> **Progresso:** Kubernetes ✅ | AWS (em andamento) | Git ✅ | Linux (próximo) | Docker (próximo)
 
 ****
 
@@ -38,4 +38,4 @@
   </tr>
 
   <tr>
-      <td align="center"><a href="topics/cloud/README.md"><img src="images/cloud.png" width="75px;" height="75px;" alt="Cloud"/><br /><b>Nuvem</b></a></
+      <td align="center"><a href="topics/cloud/README.md"><img src="image
