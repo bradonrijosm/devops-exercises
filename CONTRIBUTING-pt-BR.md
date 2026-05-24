@@ -17,7 +17,10 @@ Siga o seguinte formato:
 * Evite adicionar perguntas de instalação. Esses são o pior tipo de perguntas...
 * Não copie perguntas e respostas de outras fontes. Eles provavelmente trabalharam duro para adicioná-las.
 * Se você adicionar novas imagens, certifique-se de que elas são gratuitas e podem ser usadas.
+* Evite perguntas muito específicas de uma versão de ferramenta, pois ficam desatualizadas rapidamente.
 
 ## Antes de enviar o pull request
 
 Você pode testar suas alterações localmente com o script `run_ci.sh` no diretório de scripts.
+
+> **Nota pessoal:** Estou usando este repositório para estudar tópicos de DevOps. As contribuições aqui são principalmente para meu próprio aprendizado e referência.
